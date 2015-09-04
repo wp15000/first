@@ -5,4 +5,4 @@
 
 ## <a href="yotei.md" target="_blank">授業の予定</a>
 
-## <a href="furikaeri.md" target="_blank">授業のふりかえり</a>
+## <a href="https://github.com/wp15000/list/blob/master/daily.md" target="_blank">授業のふりかえり</a>
