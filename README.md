@@ -6,3 +6,5 @@
 ## <a href="yotei.md" target="_blank">授業の予定</a>
 
 ## <a href="https://github.com/wp15000/list/blob/master/daily.md" target="_blank">授業のふりかえり</a>
+
+## <a href="tools.md">HTML&CSSで使用するツール(Sublime, git, GitHub)に関する情報</a>
