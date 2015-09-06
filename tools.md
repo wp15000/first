@@ -28,3 +28,7 @@
 	<a href="https://github.com/" target="_blank">GitHub</a>  
 	<a href="https://github.com/wp15000/list/blob/master/list.md">各位のGitHubアカウント</a>
 - <a href="https://help.github.com/articles/github-flavored-markdown/" target="_blank">Markdown記法 チートシート</a>
+
+## タイピングの練習
+
+- <a href="http://www.e-typing.ne.jp/english/" target="_blank">e-typing(英語タイピング)</a>
