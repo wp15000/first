@@ -1,12 +1,23 @@
 # 予定
 
-## 09/04
+## 09/11
+
+## 09/10
+
+## 09/09
+
+## 09/08
 
 1. HTMLの基本
-	1. htlm
-	1. head
-	1. title
-	1. body
+	1. a
+	1. <!-- コメント -->
+	1. table, tr, th, td
+1. 振り返り
+
+## 09/07
+
+1. HTMLの基本
+	1. DOCTYPE
 	1. meta
 	1. h1, h2
 	1. ul, li
@@ -18,6 +29,15 @@
 	1. a
 	1. <!-- コメント -->
 	1. table, tr, th, td
+1. 振り返り
+
+## 09/04
+
+1. HTMLの基本
+	1. htlm
+	1. head
+	1. title
+	1. body
 1. CSSの基本
 1. <a href="http://codeprep.jp/ja" target="_blank">CODEPREP</a>
 - ふりかえり
