@@ -32,3 +32,4 @@
 ## タイピングの練習
 
 - <a href="http://www.e-typing.ne.jp/english/" target="_blank">e-typing(英語タイピング)</a>
+- <a href="http://www.seikoutyping.com/index.php?shosinshatyping" target="_blank">成功タイピング</a>

@@ -9,4 +9,4 @@
 
 ## <a href="https://github.com/wp15000/list/blob/master/github.md" target="_blank">GitHubへのリンク</a>
 
-## <a href="tools.md" target="_blank">HTML&CSSで使用するツールに関する情報</a>
+## <a href="tools.md" target="_blank">HTML&CSSで使用するツール等に関する情報</a>
