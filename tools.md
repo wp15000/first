@@ -29,7 +29,12 @@
 	<a href="https://github.com/wp15000/list/blob/master/list.md">各位のGitHubアカウント</a>
 - <a href="https://help.github.com/articles/github-flavored-markdown/" target="_blank">Markdown記法 チートシート</a>
 
-## タイピングの練習
+## タイピングの練習Webサイト
 
 - <a href="http://www.e-typing.ne.jp/english/" target="_blank">e-typing(英語タイピング)</a>
 - <a href="http://www.seikoutyping.com/index.php?shosinshatyping" target="_blank">成功タイピング</a>
+
+## HTMLをチェックするWebサイト
+
+- <a href="http://validator.w3.org/" target="_blank">Markup Validation Service</a>
+- <a href="http://gsnedders.html5.org/outliner/" target="_blank">アウトライナー</a>
