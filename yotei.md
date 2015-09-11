@@ -1,5 +1,36 @@
 # 予定
 
+## 09/18
+
+1. HTML5&CSS3ステップアップブック
+	1. Chap6 スマートフォン&タブレット
+
+## 09/17
+
+1. HTML5&CSS3ステップアップブック
+	1. Chap7 フォーム
+	1. Chap8 メディア
+
+## 09/16
+
+1. HTML5&CSS3ステップアップブック
+	1. Chap5 グラフィカルデザイン
+
+## 09/15
+
+1. HTML5&CSS3ステップアップブック
+	1. Chap3 HTML5によるセマンティック・マークアップ
+	1. Chap4 文字と画像のデザイン
+
+## 09/14
+
+1. HTML5&CSS3ステップアップブック
+	1. Chap1 HTML5とCSS3
+	1. Chap2 HTML5への移行  
+	<a href="http://validator.w3.org/" target="_blank">Markup Validation Service</a>
+	1. Chap3 HTML5によるセマンティック・マークアップ  
+	<a href="http://gsnedders.html5.org/outliner/" target="_blank">アウトライナー</a>
+
 ## 09/11
 
 1. CODEPREPでHTML&CSSを覚える  
