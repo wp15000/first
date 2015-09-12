@@ -6,7 +6,8 @@
 	1. Chap7 フォーム  
 	<a href="https://www.debian.org/" target="_blank">Debianを入手する</a>  
 	<a href="https://osdn.jp/projects/ttssh2/" target="_blank">Tera Termを入手する</a>  
-	<a href="http://www.slideshare.net/kkyama/lamppostgre-sqldebian" target="_blank">LAMP環境 (Apahe,MySQL,PHP) & Wordpress インストール手順 </a>
+	<a href="http://www.slideshare.net/kkyama/lamppostgre-sqldebian" target="_blank">LAMP環境 (Apahe,MySQL,PHP) & Wordpress インストール手順 </a>  
+	<a href="https://osdn.jp/projects/filezilla/releases/">FileZillaを入手する</a>
 
 
 ## 09/17
