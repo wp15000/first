@@ -3,13 +3,17 @@
 ## 09/18
 
 1. HTML5&CSS3ステップアップブック
-	1. Chap6 スマートフォン&タブレット
+	1. Chap7 フォーム  
+	<a href="https://www.debian.org/" target="_blank">Debianを入手する</a>  
+	<a href="https://osdn.jp/projects/ttssh2/" target="_blank">Tera Termを入手する</a>  
+	<a href="http://www.slideshare.net/kkyama/lamppostgre-sqldebian" target="_blank">LAMP環境 (Apahe,MySQL,PHP) & Wordpress インストール手順 </a>
+
 
 ## 09/17
 
 1. HTML5&CSS3ステップアップブック
-	1. Chap7 フォーム
-	1. Chap8 メディア
+	1. Chap6 スマートフォン&タブレット  
+	<a href="http://nelog.jp/genymotion-install" target="_blank">パソコンで様々な端末のAndroid環境を動作させられる「Genymotion」のインストール方法</a>  
 
 ## 09/16
 
