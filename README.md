@@ -11,4 +11,6 @@
 
 ## <a href="https://github.com/wp15000/list/blob/master/list.html.1st.md" target="_blank">html.1stへのリンク</a>
 
+## <a href="https://github.com/wp15000/list/blob/master/list.html.2nd.md" target="_blank">html.2ndへのリンク</a>
+
 ## <a href="tools.md" target="_blank">HTML&CSSで使用するツール等に関する情報</a>
