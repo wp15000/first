@@ -3,18 +3,17 @@
 ## 09/18
 
 1. HTML5&CSS3ステップアップブック
-	1. Chap6 スマートフォン&タブレット  
-	<a href="http://nelog.jp/genymotion-install" target="_blank">パソコンで様々な端末のAndroid環境を動作させられる「Genymotion」のインストール方法</a>
+	1. Chap5 グラフィカルデザイン
 
 ## 09/17
 
 1. HTML5&CSS3ステップアップブック
-	1. Chap5 グラフィカルデザイン
+	1. Chap4 文字と画像のデザイン
 
 ## 09/16
 
 1. HTML5&CSS3ステップアップブック
-	1. Chap4 文字と画像のデザイン
+	1. Chap3 HTML5によるセマンティック・マークアップ
 
 ## 09/15
 
