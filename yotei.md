@@ -21,6 +21,7 @@
 1. HTML5&CSS3ステップアップブック
 	1. Chap3 HTML5によるセマンティック・マークアップ  
 	<a href="http://gsnedders.html5.org/outliner/" target="_blank">アウトライナー</a>
+	<a href="https://developers.google.com/structured-data/testing-tool/">Structured Data Testing Tool</a>
 
 ## 09/14
 
