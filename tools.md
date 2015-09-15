@@ -38,7 +38,7 @@
 
 - <a href="http://validator.w3.org/" target="_blank">Markup Validation Service</a>
 - <a href="http://gsnedders.html5.org/outliner/" target="_blank">アウトライナー</a>
-- <a href="https://developers.google.com/structured-data/testing-tool/">Structured Data Testing Tool</a>S
+- <a href="https://developers.google.com/structured-data/testing-tool/">Structured Data Testing Tool</a>
 
 ## スマートフォン
 
