@@ -9,7 +9,8 @@
 
 1. HTML5&CSS3ステップアップブック
 	1. Chap3 HTML5によるセマンティック・マークアップ
-	1. Chap4 文字と画像のデザイン
+	1. Chap4 文字と画像のデザイン  
+	<a href="http://www.google.com/webfonts" target="_blank">Google Web Fonts</a>
 
 ## 09/16
 

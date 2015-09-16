@@ -40,6 +40,9 @@
 - <a href="http://gsnedders.html5.org/outliner/" target="_blank">アウトライナー</a>
 - <a href="https://developers.google.com/structured-data/testing-tool/" target="_blank">Structured Data Testing Tool</a>
 
+## Webフォント
+- <a href="http://www.google.com/webfonts" target="_blank">Google Web Fonts</a>
+
 ## スマートフォン
 
 - <a href="http://nelog.jp/genymotion-install" target="_blank">パソコンで様々な端末のAndroid環境を動作させられる「Genymotion」のインストール方法</a>
