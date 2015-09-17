@@ -19,6 +19,7 @@
 		<a href="https://help.github.com/articles/github-flavored-markdown/" target="_blank">Markdown記法 チートシート</a>
 		- TrailingSpaces(p144)
 		- AutoFileName
+		- SublimeServer
 
 ## Git/GitHub
 
@@ -42,6 +43,9 @@
 
 ## Webフォント
 - <a href="http://www.google.com/webfonts" target="_blank">Google Web Fonts</a>
+
+## RGBに変換する
+- <a href="http://www.colorschemer.com/online.html" target="_blank">Color Schemer Online v2</a>
 
 ## スマートフォン
 
