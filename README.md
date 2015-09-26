@@ -17,4 +17,6 @@
 
 ## <a href="https://github.com/wp15000/list/blob/master/list.html.4th.md" target="_blank">サンプルC(html.4th)へのリンク</a>
 
+## <a href="https://github.com/wp15000/list/blob/master/list.html.5th.md" target="_blank">各自のWebサイトへのリンク<a>
+
 ## <a href="tools.md" target="_blank">HTML&CSSで使用するツール等に関する情報</a>
