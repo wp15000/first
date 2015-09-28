@@ -51,6 +51,11 @@
 
 - <a href="http://nelog.jp/genymotion-install" target="_blank">パソコンで様々な端末のAndroid環境を動作させられる「Genymotion」のインストール方法</a>
 
+## 学習サイト
+
+- <a href="https://codeprep.jp/" target="_blank">CODEPREP</a>
+- <a href="http://paiza.jp/" target="_blank">paiza</a>
+
 ## LAMP環境
 
 - <a href="https://www.debian.org/" target="_blank">Debianを入手する</a>
