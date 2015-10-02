@@ -56,3 +56,7 @@
 - <a href="https://codeprep.jp/" target="_blank">CODEPREP</a>
 - <a href="http://dotinstall.com/" target="_blank">ドットインストール</a>
 - <a href="http://paiza.jp/" target="_blank">paiza</a>
+
+## その他
+
+- <a href="https://github.com/KimiyukiYamauchi/wordpress.2015" target="_blank">lamp環境構築など</a>
